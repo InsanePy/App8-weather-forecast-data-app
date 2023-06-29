@@ -1,7 +1,8 @@
 import requests
-#API_KEY= "ce8207f61f82de03b1c890ee0a91d4ad" Not activated yet
 
-API_KEY="141710af2113bab9f55ef73e1bcd33d5"
+# API_KEY="141710af2113bab9f55ef73e1bcd33d5" Ardit Instructor
+
+API_KEY = "ce8207f61f82de03b1c890ee0a91d4ad"
 
 
 def get_data(place, forecast_days):
